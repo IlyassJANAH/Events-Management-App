@@ -5,7 +5,7 @@
 
 Application web permettant aux clientx de faire une réservation d’organisation de son événement tout en bénéficiant d’une interface bien structurée et facile à utiliser. 
 Les différentes réservations seront envoyées au gérant qui bénéficiera lui-même d’une autre interface qui va lui permettre de traiter les différentes demandes des clients.
-Et finalement, l’application permettra aussi à l’administrateur de visualiser les réservations et aussi de gérer les différents gérants.
+Et finalement, l’application permettra aussi à l’administrateur de visualiser les réservations et aussi de gérer les gérants et les services.
 
 # outils et technologies
 
