@@ -1,21 +1,22 @@
 # Events-management-App
  Application web de gestion des demandes d’organisation des événements.
  
-# Présentation
+## Présentation
 
 Application web permettant aux clientx de faire une réservation d’organisation de son événement tout en bénéficiant d’une interface bien structurée et facile à utiliser. 
 Les différentes réservations seront envoyées au gérant qui bénéficiera lui-même d’une autre interface qui va lui permettre de traiter les différentes demandes des clients.
 Et finalement, l’application permettra aussi à l’administrateur de visualiser les réservations et aussi de gérer les gérants et les services.
 
-# outils et technologies
+## outils et technologies
 
 * JAVA
+* JDK8
 * NetBeans IDE
 * MySQL
-* GlassFish
+* GlassFish 
 * Bootstrap
 * JQuery
-# Screenshots
+## Fonctionnement
 
 ### Page d'acceuil
 
@@ -44,3 +45,6 @@ Et finalement, l’application permettra aussi à l’administrateur de visualis
 ### Gestion des services (Pour Admin)
 
 ![gestion service](https://user-images.githubusercontent.com/41878409/66483402-eb994900-ea9c-11e9-8b13-035b734b6fb3.png)
+
+## Auteur
+Ilyass JANAH [LinkedIn](https://www.linkedin.com/in/janah-ilyass-1354a7a0/)
